@@ -32,3 +32,8 @@ settings.json
 *.exe
 *.out
 *.app
+
+# build
+/bin
+/build
+.vscode/
