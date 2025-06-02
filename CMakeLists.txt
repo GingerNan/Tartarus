@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.29.0)
+cmake_minimum_required(VERSION 3.10.0)
 project(tartarus)
 
 # 启用详细的Makefile输出，方便调试
